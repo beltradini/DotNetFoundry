@@ -1,0 +1,53 @@
+# DotNetFoundry
+
+A structured C# and .NET engineering laboratory built while
+transitioning concepts from Swift and iOS development into the .NET ecosystem.
+
+## Goals
+
+- Master modern C#
+- Understand the .NET runtime and tooling
+- Build backend services with ASP.NET Core
+- Learn Entity Framework Core
+- Practice automated testing
+- Explore software architecture
+- Build production-oriented projects
+
+## Learning Path
+
+### Phase 1 — C# Fundamentals
+- Types
+- Variables
+- Functions
+- Classes
+- Structs
+- Records
+- Interfaces
+- Collections
+
+### Phase 2 — Modern C#
+- Generics
+- LINQ
+- Pattern Matching
+- Delegates
+- Async/Await
+
+### Phase 3 — .NET
+- Dependency Injection
+- Configuration
+- Logging
+- Testing
+
+### Phase 4 — ASP.NET Core
+- REST APIs
+- Authentication
+- Middleware
+
+### Phase 5 — Persistence
+- Entity Framework Core
+- PostgreSQL
+
+### Phase 6 — Production
+- Docker
+- Architecture
+- CI/CD

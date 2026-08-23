@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/exercises/">
+    <Project Path="exercises/DotNetFoundry.Exercises/DotNetFoundry.Exercises.csproj" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/DotNetFoundry.Fundamentals/DotNetFoundry.Fundamentals.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/DotNetFoundry.Tests/DotNetFoundry.Tests.csproj" />
+  </Folder>
+</Solution>
